@@ -1,2 +1,0 @@
-# HackU
-Course files
