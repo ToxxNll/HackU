@@ -23,5 +23,7 @@ class baby():
         
 Dias = human("Dias", "Male", 23)
 obj = baby("qwe", "qwe", 9)
+Dias.olding()
 obj.olding()
+print(Dias.age)
 print(obj.age)

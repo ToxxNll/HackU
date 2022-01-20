@@ -28,7 +28,6 @@ class baby(human):
         human.olding(self)
 
     def showinfo(self):
-        
         try:
             return self.name, self.pol, self.age, self.toy, self.can_walk,self.speaking
         except:
